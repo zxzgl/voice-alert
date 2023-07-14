@@ -1,0 +1,13 @@
+{
+  "hash": "5de5b395",
+  "browserHash": "91bee27a",
+  "optimized": {
+    "vue-jsonp": {
+      "src": "../../../../../node_modules/vue-jsonp/dist/index.esm.js",
+      "file": "vue-jsonp.js",
+      "fileHash": "b3e54ed1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

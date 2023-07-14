@@ -1,0 +1,30 @@
+
+.uni-form-item .title {
+		padding: 0.625rem 0;
+}
+.uni-input {
+		border: 1px solid rgba(144, 144, 144, 0.25);
+		background: rgba(144, 144, 144, 0.075);
+		height: 40px;
+		border-radius: 5px;
+}
+
+
+.play-time-area[data-v-1cf27b2a] {
+		display: flex;
+		flex-direction: row;
+		margin-top: 20px;
+}
+.duration[data-v-1cf27b2a] {
+		margin-left: auto;
+}
+.play-button-area[data-v-1cf27b2a] {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		margin-top: 50px;
+}
+.icon-play[data-v-1cf27b2a] {
+		width: 60px;
+		height: 60px;
+}
